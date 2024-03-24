@@ -53,7 +53,7 @@ my intro
 <details>
  <summary><h3>👨‍💻 Kapish's Coding Journey</h3></summary>
    the journey
-
+</details>
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kapishpatel/)
 
