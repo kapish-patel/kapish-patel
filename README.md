@@ -44,11 +44,9 @@ my intro
 
 ### 📊 Stats
 
-| ![Kapish's GitHub stats](https://github-readme-stats.vercel.app/api?username=kapish-patel&show_icons=true&theme=gruvbox) | <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=kapish-patel&repo=TimeMachine&theme=nightowl&show_owner=true" alt="TimeMachine Repository" /> |
-|:-:|:-:|
+![Kapish's GitHub stats](https://github-readme-stats.vercel.app/api?username=kapish-patel&show_icons=true&theme=gruvbox)
 
-
-
+<img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=kapish-patel&repo=TimeMachine&theme=nightowl&show_owner=true" alt="Awesome-Dev-Portfolios" />
 
 #
 
