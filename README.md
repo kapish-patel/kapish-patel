@@ -1,6 +1,6 @@
 # Kapish Patel
 
-**`Software Samurai <developer, martial arts, foodie>`**
+**`Software Samurai🥋 <developer, martial arts, love to cook food>`**
 
 my intro
 
@@ -54,5 +54,6 @@ my intro
  <summary><h3>👨‍💻 Kapish's Coding Journey</h3></summary>
    the journey
 
-[Linkedin]: https://www.linkedin.com/in/kapishpatel
-[Blog]: https://kapishknows.blogspot.com
+
+[Linkedin]: https://www.linkedin.com/in/kapishpatel/
+[Blog]: https://kapishknows.blogspot.com/
