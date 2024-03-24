@@ -46,7 +46,7 @@ my intro
 
 ![Kapish's GitHub stats](https://github-readme-stats.vercel.app/api?username=kapish-patel&show_icons=true&theme=gruvbox)
 
-<img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Kiran1689&repo=Awesome-Dev-Portfolios&theme=nightowl&show_owner=true" alt="Awesome-Dev-Portfolios" />
+<img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=kapish-patel&repo=Awesome-Dev-Portfolios&theme=nightowl&show_owner=true" alt="Awesome-Dev-Portfolios" />
 
 #
 
