@@ -3,7 +3,8 @@
 **`Software Samurai🥋 <developer, martial arts, love to cook food>`**
 
 👋 Hello World! 
-</br>
+
+
 Namaste 🙏 I'm Kapish Patel, a dedicated Computer Science student at Seattle University with a passion for engineering and problem-solving. Previously, I earned a Bachelor's degree in Information Technology with a specialization in Infrastructure Management Services, focusing primarily on cloud computing technologies. As a developer, I thrive on the opportunity to engineer solutions that make a meaningful impact.
 
 Beyond the realm of coding, I find joy in various activities such as swimming 🏊‍♂️, practicing martial arts 🥋, and experimenting in the kitchen to whip up delicious dishes 🍳.
