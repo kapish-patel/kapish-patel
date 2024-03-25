@@ -52,7 +52,7 @@ Beyond the realm of coding, I find joy in various activities such as swimming ðŸ
 ![Kapish's GitHub stats](https://github-readme-stats.vercel.app/api?username=kapish-patel&show_icons=true&theme=gruvbox)
 
 <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=kapish-patel&repo=Sumazon&theme=nightowl&show_owner=true" alt="Awesome-Dev-Portfolios" />
-[![Awesome-Dev-Portfolios](https://github-readme-stats.vercel.app/api/pin/?username=kapish-patel&repo=Sumazon&theme=nightowl&show_owner=true)](https://github.com/kapish-patel/Sumazon)]
+[Awesome-Dev-Portfolios](https://github-readme-stats.vercel.app/api/pin/?username=kapish-patel&repo=Sumazon&theme=nightowl&show_owner=true)](https://github.com/kapish-patel/Sumazon)
 
 
 #
