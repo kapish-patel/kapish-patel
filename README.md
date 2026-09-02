@@ -1,75 +1,59 @@
-# Kapish Patel
+<div align="center">
 
-**`Software Samurai🥋 <developer, martial arts, love to cook food>`**
+<img src="https://capsule-render.vercel.app/api?type=pixel&color=0:FF0080,50:7928CA,100:00DFD8&height=180&section=header&text=Kapish%20Patel&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20%7C%20Building%20Tradesman%20Platform&descSize=15&descAlignY=62" width="100%"/>
 
-👋 Hello World! 
+</div>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=13&pause=1000&color=FF0080&center=true&vCenter=true&width=520&lines=git+commit+-m+%22send+it%22;Co-Founder+%40+Tradesman+Platform;Ctrl%2BZ+is+my+best+friend." alt="Typing SVG" />
+</p>
 
-Namaste 🙏 I'm Kapish Patel, a dedicated Computer Science student at Seattle University with a passion for engineering and problem-solving. Previously, I earned a Bachelor's degree in Information Technology with a specialization in Infrastructure Management Services, focusing primarily on cloud computing technologies. As a developer, I thrive on the opportunity to engineer solutions that make a meaningful impact.
-
-Beyond the realm of coding, I find joy in various activities such as swimming 🏊‍♂️, practicing martial arts 🥋, and experimenting in the kitchen to whip up delicious dishes 🍳.
+<p align="center">
+  <img src="https://img.shields.io/badge/Hicksville-NY-FF0080?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/5%2B_years-of_googling_errors-7928CA?style=for-the-badge" />
+</p>
 
 ---
 
-### 🧰 Languages and Tools
+### 🧑‍💻 About
 
+5+ years of turning coffee into code at CivicPlus, Sports Excitement, and Acute Informatics. Currently Co-Founder & Engineer at **Tradesman Platform**, a marketplace connecting skilled tradespeople with people who have absolutely no idea how to fix a leaky faucet.
 
-<img align="left" alt="Java" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Git" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="C++" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="AngularJS" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-<img align="left" alt="React" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Redux" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-<img align="left" alt="Vue.js" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-<img align="left" alt="AWS" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
-<img align="left" alt="Bootstrap" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-<img align="left" alt="Flutter" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-<img align="left" alt="Firebase" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-<img align="left" alt="Dart" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-<img align="left" alt="PostgreSQL" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-<img align="left" alt="Bash" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-<img align="left" alt="MySQL" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="MongoDB" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<br />
+Give me any language or stack and I'll figure it out — I speak fluent Stack Overflow.
 
-#
+---
 
-### 📊 Stats
+### 🎮 Currently leveling up in
 
-![Kapish's GitHub stats](https://github-readme-stats.vercel.app/api?username=kapish-patel&show_icons=true&theme=gruvbox)
+<p align="left">
+  <img src="https://img.shields.io/badge/System_Design-FF0080?style=flat-square&logo=serverless&logoColor=white" />
+  <img src="https://img.shields.io/badge/Game_Development-7928CA?style=flat-square&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/SaaS-00B4B4?style=flat-square&logo=rocket&logoColor=white" />
+</p>
 
-<img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=kapish-patel&repo=TimeMachine&theme=nightowl&show_owner=true" alt="Awesome-Dev-Portfolios" />
+Currently building distributed systems on purpose, instead of accidentally, like at my last job. Rate limiters, distributed KV stores, feed systems — pinned below as they escape into the wild.
 
-#
+---
 
-<details>
- <summary><h3>👨‍💻 Kapish's Coding Journey</h3></summary>
-   🚀 My coding journey commenced in 8th grade when I delved into the world of web development, learning the fundamentals of HTML and CSS to craft basic websites. As I progressed, I ventured into dynamic web development with JavaScript in 10th grade, mastering essential concepts such as DOM manipulation, XML handling, and styling techniques.
+### 🍳 Off the keyboard
 
-   🎓 High school marked a significant milestone in my programming journey, where I embraced C++ as my primary language and delved deep into object-oriented programming principles. This period laid a strong foundation for my understanding of software development.
+- Cooking things that occasionally turn out edible
+- Swimming laps, mostly to justify the cooking
+- DJing from the driver's seat — my car has better acoustics than most clubs 🚗🎧
 
-   🔧 Transitioning to my bachelor's degree in Information Technology, specializing in Infrastructure Management Services with a focus on cloud computing, I immersed myself in diverse subjects ranging from networking and security to machine learning. An enriching internship experience as an Associate Network Engineer further broadened my practical knowledge.
+---
 
-   📚 Currently pursuing a degree in Computer Science at Seattle University, I've expanded my software repertoire to encompass a wide array of skills including software testing, security, mobile development, DevOps, parallel computing, software architecture, and distributed systems.
+### 📫 Reach me
 
-   💡 Reflecting on my journey thus far, I find myself equipped to undertake various roles in the tech industry, from mobile application development to front-end and full-stack engineering. However, my particular interest lies in pursuing opportunities as either a cloud engineer, mobile application developer, or full-stack developer, where I can leverage my diverse skill set to create impactful solutions.
-</details>
+(no carrier pigeons, please)
 
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kapishpatel/) | [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://kapishknows.blogspot.com) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kapish-patel) | [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_kapishpatel) |
-|---|---|---|---|
+<p align="left">
+  <a href="mailto:kapishmanojpatel@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/kapishpatel">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-
-
+<img src="https://capsule-render.vercel.app/api?type=pixel&color=0:00DFD8,50:7928CA,100:FF0080&height=100&section=footer" width="100%"/>
